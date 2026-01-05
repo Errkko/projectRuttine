@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\ernyc\\Cdev",
+            "binaryPath": "c:\\Users\\ernyc\\Cdev\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
