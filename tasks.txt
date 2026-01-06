@@ -1,0 +1,5 @@
+Take morning medicine|BIWEEKLY|HIGH|0|20260106
+Doctors appointment|ONCE|HIGH|0|0
+Physio exercises|DAILY|MEDIUM|1767724595|0
+Empty dishwasher|DAILY|LOW|0|0
+Vaccuum appartment|WEEKLY|MEDIUM|0|20260106
